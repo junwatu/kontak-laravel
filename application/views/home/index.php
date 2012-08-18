@@ -20,7 +20,7 @@
 			<div class="home">
 			</div>	
 		</div>
-		<<footer><p>Copyright &copy; 2012 www.junwatu.com</p></footer>
+		<footer><p>Copyright &copy; 2012 www.junwatu.com</p></footer>
 	</div>
 </body>
 </html>
