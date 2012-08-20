@@ -10,10 +10,15 @@
 <body>
 	<div class="wrapper">
 		<header>
-				<h2>Start Laravel</h2>
+			<h1>Kontak Laravel</h1>
+			<h2>Web Application For Your Contact Data</h2>
+
+			<p class="intro-text" style="margin-top: 45px;">
+			</p>
+			<h4><a href="<?php echo URL::to('/user/logout');?>">Logout</a></h4>
 		</header>
 		<div class="main">
-			<p>Registered Page! <a href="<?php echo URL::to('/user/logout');?>">Logout</a></p>
+			<p>Registered Page!</p>
 		</div>
 	</div>
 </body>

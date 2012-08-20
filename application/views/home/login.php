@@ -10,7 +10,11 @@
 <body>
 	<div class="wrapper">
 		<header>
-				<h2>Start Laravel</h2>
+			<h1>Kontak Laravel</h1>
+			<h2>Web Application For Your Contact Data</h2>
+
+			<p class="intro-text" style="margin-top: 45px;">
+			</p>
 		</header>
 		<div class="main">
 			    <h4>Login</h4>
