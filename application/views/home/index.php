@@ -15,6 +15,7 @@
 
 			<p class="intro-text" style="margin-top: 45px;">
 			</p>
+			 <h4><a href="<?php echo URL::to('user');?>">Login</a></h4>
 		</header>
 		<div role="main" class="main">
 			<div class="home">
