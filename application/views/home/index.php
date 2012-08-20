@@ -19,9 +19,10 @@
 		</header>
 		<div role="main" class="main">
 			<div class="home">
+				<p>Welcome Page!</p>
 			</div>	
 		</div>
-		<footer><p>Copyright &copy; 2012 www.junwatu.com</p></footer>
+		<footer><p>Copyright &copy; 2012 junwatu.com</p></footer>
 	</div>
 </body>
 </html>

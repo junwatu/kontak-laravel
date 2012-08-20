@@ -18,6 +18,8 @@
 		</header>
 		<div class="main">
 			    <h4>Login</h4>
+			    
+			    <div id="loginForm" class="loginForm">
 			    <?php
 				echo Form::open(URL::to('user/login'));
 				?>
@@ -33,6 +35,8 @@
 				echo Form::submit("Login");
 				echo Form::close();
 				?>
+			</div>
+			<footer><p>Copyright &copy; 2012 junwatu.com</p></footer>
 		</div>
 	</div>
 </body>

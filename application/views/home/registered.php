@@ -20,6 +20,7 @@
 		<div class="main">
 			<p>Registered Page!</p>
 		</div>
+		<footer><p>Copyright &copy; 2012 junwatu.com</p></footer>
 	</div>
 </body>
 </html>

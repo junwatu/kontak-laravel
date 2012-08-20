@@ -376,3 +376,15 @@ code
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
 }
+
+/**
+Custom
+*/
+.loginForm {
+	width: 200px;
+}
+
+footer {
+	border-top: 1px solid #EEE;
+	margin-top: 30px;
+}
