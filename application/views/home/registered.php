@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>Start Laravel: A Framework For Web Artisans</title>
 	<meta name="viewport" content="width=device-width">
-	<link rel="stylesheet" href="<?php URL::to('laravel/css/style.css')?>">
+	<link rel="stylesheet" href="<?php echo URL::to('laravel/css/style.css')?>">
 </head>
 <body>
 	<div class="wrapper">
