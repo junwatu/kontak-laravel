@@ -69,10 +69,10 @@ return array(
 
 		'mysql' => array(
 			'driver'   => 'mysql',
-			'host'     => 'localhost',
-			'database' => 'database',
-			'username' => 'root',
-			'password' => '',
+			'host'     => 'http://www.junwatu.com',
+			'database' => getenv('MYSQL_KONTAK_LARAVEL_DB'),
+			'username' => getenv('MYSQL_KONTAK_LARAVEL_USER'),
+			'password' => getenv('MYSQL_KONTAK_LARAVEL_PASSWORD'),
 			'charset'  => 'utf8',
 			'prefix'   => '',
 		),
