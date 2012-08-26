@@ -35,3 +35,9 @@ dwsync.xml
 intermediate
 publish
 .idea
+
+#sublime text project setting files
+*.sublime-project
+*.sublime-workspace
+
+
