@@ -1,6 +1,7 @@
 # [Kontak Laravel](http://www.junwatu.com) - Login Register Laravel Framework Sample
 
 Kontak Laravel is login register application based on Laravel PHP Framework. Feel free to fork and customize it.
+You can see the demo in this url [http://demo.junwatu.com/kontak-laravel/](http://demo.junwatu.com/kontak-laravel/) 
 
 [If you have time, see my post for a little description about this sample (in Indonesian)](http://www.junwatu.com/?p=2142)
 
