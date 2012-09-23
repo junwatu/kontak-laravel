@@ -11,7 +11,7 @@
 	<div class="wrapper">
 		<header>
 			<h1>Kontak Laravel</h1>
-			<h2>Web Application For Your Contact Data</h2>
+			<h2>Simple Login Register Web Application</h2>
 
 			<p class="intro-text" style="margin-top: 45px;">
 			</p>
